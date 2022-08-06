@@ -1,4 +1,4 @@
-## Proyecto Road To Ops
+# Proyecto Road To Ops
 
 Esta es una aplicación para docker que expone un servidor web basado en python y una página de bienvenida.
 
@@ -17,4 +17,4 @@ docker logs <nombre_del_contenedor>
 
 
 
-# Armando Martínez
+### Armando Martínez
