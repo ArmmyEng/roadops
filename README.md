@@ -1,5 +1,5 @@
 # Proyecto Road To Ops
-
+<img src="http://www.astana.es/wp-content/uploads/2017/03/DevOpsDays.png"/>
 Esta es una aplicación para docker que expone un servidor web basado en python y una página de bienvenida.
 
 Para descargar la imagen docker es necesario lanzar el siguiente comando 

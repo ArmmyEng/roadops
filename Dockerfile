@@ -6,3 +6,4 @@ COPY . .
 
 CMD [ "python3", "-m", "page.py", "-d", "index.html" ]
 
+EXPOSE 3000
